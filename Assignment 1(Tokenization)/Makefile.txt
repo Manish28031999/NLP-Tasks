@@ -1,0 +1,9 @@
+Please Need to have all of these things in your system to run the code smoothly.
+1.Install Python 3.11.5
+2.Install Sentence piece using this command in windows 'pip install sentencepiece'
+3.Install Transformers using this command in windows'pip install transformers'
+4.Install PyTorch using this command in windows'pip install torch torchvision torchaudio'
+5.Install protubuf Library using this command in windows 'pip install protobuf'
+
+
+For Q5 you need to run first Q4 because I have used trained model of Unigram and BPE inside that.
